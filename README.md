@@ -41,7 +41,7 @@ BytePairEncoding/
 
 ## Known Gap
 
-The original project included a corpus of example poems and their corresponding compressed (`.bprl`) and human-readable (`.bprl.sep`) outputs, used to test and demonstrate the compressor. Those example/test files aren't included here — they got scrambled badly enough during file transfer (filenames not matching their actual content) that I couldn't reliably reconstruct which encoded output belongs to which poem, and didn't want to risk shipping mismatched pairs. The core implementation above is unaffected and was verified file-by-file. If you still have the original project folder, re-adding those examples directly (rather than re-uploading them individually) would avoid the same mismatch issue.
+The original project included a corpus of example poems and their corresponding compressed (`.bprl`) and human-readable (`.bprl.sep`) outputs, used to test and demonstrate the compressor. Those example/test files aren't included here.
 
 ## Author
 
